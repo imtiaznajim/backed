@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmovie_flutter_frontend=self.webpackChunkmovie_flutter_frontend||[]).push([[964],{85964:(e,t,n)=>{n.r(t),n.d(t,{default:()=>i});n(72791);var s=n(79271),r=n(78687),u=n(80184);const i=(0,r.$j)((e=>({isAuth:e.admin.isAuth})))((e=>{let{component:t,isAuth:n,...r}=e;return(0,u.jsx)(s.AW,{...r,render:e=>!0===n?(0,u.jsx)(s.l_,{to:"/admin"}):(0,u.jsx)(t,{...e})})}))}}]);
+//# sourceMappingURL=964.d3e914d8.chunk.js.map
