@@ -1,7 +1,5 @@
 module.exports = {
-  "_id": {
-    "$oid": "6389d52e8a5624d6fb57a098"
-  },
+  "_id": "6389d52e8a5624d6fb57a098",
   "googlePlayEmail": "GOOGLE PLAY EMAIL",
   "stripePublishableKey": "pk_test_51MrNpNGN45HJoheDzNEiN5BgqT0uowsawXa5WEbPDTj4bGgX5SsYdRifDkjvyESJ82JXYot6BXsoFHQ7CJxLCB9e00895DfoTS",
   "stripeSecretKey": "sk_test_51MrNpNGN45HJoheDREiAzZWm2SsWbQyYgLX2jOYb9sZ7615rFJYB6iwK2Kkki0HEl0E9GIeM3h01H9eTMB3oqyt500uZb97YK3",
@@ -15,15 +13,11 @@ module.exports = {
   "isAppActive": true,
   "paymentGateway": [],
   "currency": "$",
-  "createdAt": {
-    "$date": "2022-12-02T10:36:30.324Z"
-  },
-  "updatedAt": {
-    "$date": "2024-06-25T12:00:14.355Z"
-  },
+  "createdAt": "2022-12-02T10:36:30.324Z",
+  "updatedAt": "2024-10-24T13:50:41.833Z",
   "__v": 0,
   "googlePlayKey": "GOOGLE PLAY KEY",
-  "isIptvAPI": true,
+  "isIptvAPI": false,
   "privateKey": {
     "type": "service_account",
     "project_id": "mova-6c2db",
@@ -38,5 +32,5 @@ module.exports = {
     "universe_domain": "googleapis.com"
   },
   "flutterWaveId": "FLWPUBK_TEST-cdc51a4df113a91fe33a914eaf8d1c75-X",
-  "flutterWaveSwitch": true
+  "flutterWaveSwitch": false
 };
